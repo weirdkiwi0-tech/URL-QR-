@@ -1,0 +1,6 @@
+{
+  "name": "QR Rapid",
+  "description": "A clean and fast QR code generator for URLs and text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
